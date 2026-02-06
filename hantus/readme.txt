@@ -2,10 +2,10 @@
 
 Contributors: Nayrathemes
 Requires at least: 4.7
-Tested up to: 6.8.1
+Tested up to: 6.9
 Requires PHP: 5.6
-Stable tag: 18.2
-Version: 18.2
+Stable tag: 20.0
+Version: 20.0
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 Tags: one-column, two-columns, right-sidebar, flexible-header, custom-background, custom-colors, custom-header, custom-menu,  custom-logo, featured-image-header, featured-images, footer-widgets, full-width-template, sticky-post, theme-options, threaded-comments, translation-ready, blog, e-commerce, portfolio, editor-style, grid-layout
@@ -123,6 +123,60 @@ All other Images have been used in images folder, Created by Nayra Themes. Also 
 
 
 == Changelog ==
+
+@version 20.0
+* Block Style Fixed
+
+@version 19.9
+* Style Issue Fixed
+
+@version 19.8
+* Fixed Theme Unit Issue
+
+@version 19.7
+* Style Improvement
+
+@version 19.6
+* Style Improvement
+
+@version 19.5
+* Style Issue Fixed
+
+@version 19.4
+* Fixed Block Style Issue
+
+@version 19.3
+* Style Improvement
+
+@version 19.2
+* Tested WP 6.9 Compatibility
+
+@version 19.1
+* Block Embed Style Fixed
+
+@version 19.0
+* Style Improvement
+
+@version 18.9
+* Form Style Issue Fixed
+
+@version 18.8
+* Block Style Issue Fixed
+
+@version 18.7
+* Style Issue Fixed
+
+@version 18.6
+* Block Elements Style Fixed
+
+@version 18.5
+* Padding Fixed
+
+@version 18.4
+*  Style Issue Fixed
+
+@version 18.3
+* Latest WP Tested 6.8.3
 
 @version 18.2
 * Button Color Fixed

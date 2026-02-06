@@ -5,7 +5,7 @@ function hantus_setup() {
 	/**
 	 * Define Theme Version
 	 */
-	define( 'HANTUS_THEME_VERSION', '18.2' );
+	define( 'HANTUS_THEME_VERSION', '20.0' );
 	
 	/*
 	 * Make theme available for translation.

@@ -27,7 +27,7 @@ get_header();
 										<ul class="meta-info">
 											<li class="post-date"><a href="<?php echo esc_url(get_month_link(get_post_time('Y'),get_post_time('m'))); ?>"><?php esc_html_e('On','hantus'); ?> <?php echo esc_html(get_the_date('j')); ?> <?php echo esc_html(get_the_date('M')); ?>, <?php echo esc_html(get_the_date('Y')); ?></a></li>
 											<li class="posted-by"><a href="<?php echo esc_url(get_author_posts_url( get_the_author_meta( 'ID' ) ));?>"><?php esc_html_e('By','hantus'); ?> <?php esc_html(the_author()); ?></a></li>
-											 <li class="post-category"><a href="<?php esc_url(the_permalink()); ?>"><i class="fa fa-folder-open"></i> <?php the_category(', '); ?></a></li>
+											 <li class="post-category"><a href="<?php echo esc_url(get_permalink()); ?>"><i class="fa fa-folder-open"></i> <?php the_category(', '); ?></a></li>
 											<li class="comments-quantity"><a href="<?php echo esc_url(get_comments_link( $post->ID )); ?>"><i class="fa fa-wechat"></i> <?php echo esc_html(get_comments_number($post->ID)); ?> <?php esc_html_e('Comments','hantus'); ?></a></li>
 										</ul>	
                                    <?php     
