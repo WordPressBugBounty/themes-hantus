@@ -4,7 +4,7 @@ Theme URI: https://www.nayrathemes.com/hantus-free/
 Author: Nayra Themes
 Author URI: https://www.nayrathemes.com/
 Description: Hantus is an elegant and modern WordPress theme for spa and wellness centers but it is also very easy to customize it for other business like hairdressing, ayurvedic, manicures, pedicures, makeup, mashups, nails, detox, tanning, male grooming, facials, waxing, spa and body treatments, massages or other Hair & Barber related services. View the demo of Hantus Pro https://www.nayrathemes.com/demo/pro/?theme=hantus
-Version: 20.9
+Version: 21.0
 Tested up to: 6.9
 Requires PHP: 5.6
 Requires at Least: 4.7
@@ -4037,4 +4037,9 @@ table.wc-block-cart-items .wc-block-cart-items__row .wc-block-components-product
 
 .footer-sidebar .widget .wp-block-media-text .wp-block-media-text__content a {
 	color: #ff214f;
+}
+
+a.wp-block-latest-posts__post-title:hover,
+a.wp-block-latest-posts__post-title:focus {
+ 	        color: inherit;
 }
